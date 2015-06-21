@@ -1,19 +1,21 @@
 Unity Animated Shaders
 =======
 
-A collection of animated and highly reusable shaders by Josh Maines for Unity 4 Pro and Unity 5.
+A collection of animated and highly reusable shaders by Josh Maines for Unity 4 Pro and eventually Unity 5.
 
 Unity 4 Pro Shaders
 =======
 The following list of shaders exist in the Unity 4 subfolder.
+- Arrow Scroller (with lightbulbs)
 - Space Field (animated star field)
 - TV Static
 - Heated Steel
 - Sun
 
-Unity 5 Shaders
+Unity 5 Shaders (coming later)
 =======
 The following list of shaders will exist in the Unity 5 subfolder once I get around to porting them.
+- Arrow Scroller (with lightbulbs)
 - Space Field (animated star field)
 - TV Static
 - Heated Steel
@@ -26,7 +28,7 @@ This project is licensed under the MIT public domain license. Any and all parts 
 
 Current state
 =======
-Version: 0.0.1 (non-functional)
+Version: 0.0.2 (missing pieces)
 Maintainer: Josh Maines
 
 Project is non-profit but unsupported.  If you require support for this, you may acquire my freelance services at my current hourly rate by using my site's contact form at http://www.tapskill.com/contact
